@@ -9,7 +9,7 @@
 
 Version control tools (e.g. Git/GitHub) are integral to a reproducible workflow. There are many resources out there for learning Git/Github, but most are written for people with more technical experience. How can we onboard students efficiently? How can we help students avoid common problems? This session intends to (1) introduce the audience to version control principles, (2) make a case for version control as a substantive learning objective in teaching/training statisticians and analysts, and (3) share resources and engage participants in implementation details to begin integrating Git/GitHub as a meaningful part of a statistics course. We will discuss an implementation model suitable for both technical and non-technical students without prior experience needed.  We also discuss GitHub Classroom as a means to preserve academic integrity while still providing students real experience with tools designed to facilitate collaboration and code sharing. The session includes hands-on experiences with methods to first introduce GitHub to students, to streamline Git & RStudio linkage, and to use GitHub Classroom to distribute assignments that include instructions, starter code, and data.
 
-![QR Code for presentation materials]()
+![https://mdbeckman.github.io/2020-Twin-Cities-Stat-Chat/](2020_statchat_QR.png)
 
 
 ## Agenda
