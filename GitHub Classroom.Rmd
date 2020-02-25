@@ -1,0 +1,248 @@
+---
+title: "GitHub Classroom Configuration"
+subtitle: "Originally prepared for USCOTS 2019 Breakout Session"
+author: "Matthew Beckman & Adam Sullivan"
+date: "May 17, 2019"
+output: html_notebook
+---
+
+
+# Prerequisites
+
+- GitHub user id (if you haven't done so already)
+- (recommended) photo of your faculty ID to request education benefits
+
+
+# In GitHub...
+
+
+0. Login 
+1. Create new organization in GitHub
+    - select the "+" in the upper right of the screen and choose "new organization"
+    - you will create a new organization for each class
+    - the organization is linked to your github profile and will house the student repositories created through GitHub Classroom
+
+<center>
+
+![Fig. Initate new GitHub organization](GitHub Classroom Images/02-new github org.png){width=80%}
+
+</br>
+
+</center>
+
+2. Set up the organization
+    - the free version is sufficient
+    - you can request free unlimited private repositories through GitHub Education later
+
+<center>
+
+![Fig. Set up GitHub organization](GitHub Classroom Images/03-set up org.png){width=70%}
+
+</br>
+
+</center>
+
+3. Skip the prompt to "invite members" to your organization (select "Continue")
+    - students will NOT be "members" of the organization
+    - students will become "outside collaborators" when later added through GitHub Classroom 
+
+<center>
+
+![Fig. Skip prompt to invite members](GitHub Classroom Images/04-invite members (cont).png){width=80%}
+
+</br>
+
+</center>
+
+4. Populate organization details
+    - mark that the organization is for educational use
+    - mark length of time for your class
+    - mark number of users (class enrollment)
+
+<center> 
+
+![Fig. GitHub organization details](GitHub Classroom Images/05-org details.png){width=80%}
+
+</br>
+
+</center>
+
+
+
+
+
+# In GitHub Classroom...
+
+5. GitHub Classroom Sign In (using GitHub credentials)
+6. Initate a "New Classroom" from GitHub Classroom landing page
+
+<center>
+
+![Fig. Initiate new classroom ](GitHub Classroom Images/00-github classroom.png){width=80%}
+
+</br>
+
+</center>
+
+7. Grant GitHub Classroom access to the GitHub organization created previously
+    - The organizations shown (if any) have already been configured for access from GitHub Classroom
+    - Newly initiated organizations will not populate on the list yet
+    - Choose "Grand access to an organization that is not listed"
+
+
+<center> 
+
+![Fig. Initate access to GitHub organization](GitHub Classroom Images/06-back to classroom.png){width=80%}
+
+</br>
+
+</center>
+
+
+8. Grant access to GitHub organization
+    - GitHub Classroom will populate a list of organizations associated with your GitHub credentials
+    - Click "Grant" next to the organization you want affiliated with your class
+    - You may also "Revoke" access if needed
+9. You will be prompted for your GitHub credentials 
+
+
+<center>
+
+![Fig. Grant access to GitHub organization](GitHub Classroom Images/07-locate new org.png){width=80%}
+
+</br>
+
+</center>
+
+
+
+10. Select GitHub organization for your class
+    - back to GitHub Classroom main page (may need to refresh page)
+    - your newly configured organization should be among the available options
+11. You will be prompted to rename your classroom (can be changed later if necessary)
+12. You will have an opportunity to invite other administrators (can be invited later if necessary)
+
+<center> 
+
+![Fig. Select GitHub organization for your class](GitHub Classroom Images/10-refresh and verify classroom.png){width=80%}
+
+</br>
+
+</center>
+
+
+13. Set up class roster in GitHub Classroom
+    - this step is optional, and can be revisited later
+
+<center> 
+
+![Fig. Select GitHub organization for your class](GitHub Classroom Images/13-set up roster.png){width=80%}
+
+</br>
+
+</center>
+
+
+
+# (Recommended) GitHub Education Benefits
+
+14. Initiate GitHub Education Benefits
+    - unlimited **private** repositories 
+    - unlimited collaborators (students)
+    - click the (well camouflaged) link or Internet search "github education"
+    - [https://education.github.com](https://education.github.com)
+
+<center> 
+
+![Fig. Initiate GitHub Education Benefits](GitHub Classroom Images/14-github educ.png){width=80%}
+
+</br>
+
+</center>
+
+
+15. Apply for GitHub Education Benefits
+
+<center> 
+
+![Fig. Apply for GitHub Education Benefits](GitHub Classroom Images/15-join github educ for free private repos.png){width=80%}
+
+</br>
+
+</center>
+
+
+15. Apply for GitHub Education Benefits
+16. Follow prompts to identify the github organization and describe your use
+17. You may need to show proof of academic status (e.g., upload photo of institution ID)
+    - verification of faculty status may take a few business days 
+    - verification retained to expedite future requests 
+18. Upgrade your organization once you are verified as faculty
+
+<center> 
+
+![Fig. Upgrade your organization once verified](GitHub Classroom Images/21-verified faculty.png){width=80%}
+
+</br>
+
+</center>
+
+
+# Creating an assignment in GitHub Classroom
+
+19. Create your first assignment
+    - Choose "individual" or "group assignment"
+        - individual: each student has their own repository for the assignment
+        - group: the group will have a shared repository for the assignment
+
+
+<center> 
+
+![Fig. Create first assignment in GitHub Classroom](GitHub Classroom Images/23-first assignment.png){width=80%}
+
+</br>
+
+</center>
+
+
+20. Configure GitHub Classroom Assignment
+    - create concise assignment title
+    - choose public vs private--should student work be visible to public, including other students?
+    - determine whether students should have admin permissions on their repository, allowing them to
+        - revoke instructor access
+        - make private repo public
+        - and more
+    - enable assignment URL for easy distribution
+    - you may initialize student repos with code, templates, data sets, etc 
+        - imports contents of an existing GitHub Repo
+        - can be a private repo associated with your own GitHub credentials
+    - you can configure a due date in GitHub Classroom
+
+
+<center> 
+
+![Fig. Configure assignment](GitHub Classroom Images/24-configure assignment.png){width=80%}
+
+</br>
+
+</center>
+
+
+21. Deploy assignment to students!
+    - invitation link can be posted in LMS, or otherwise distributed.
+    - when students click the link they will be prompted to accept the assignment
+    - once accepted, the assignment "clones" a version of the starter code (if provided) and initiates a new repo for the student
+    - student is then provided a link to their new GitHub repository (within your controlled github organization linked to the class)
+
+<center> 
+
+![Fig. Distribute assignment](GitHub Classroom Images/25-assignment link.png){width=80%}
+
+</br>
+
+</center>
+
+
+
+
+

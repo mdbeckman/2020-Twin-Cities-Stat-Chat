@@ -15,23 +15,25 @@ Version control tools (e.g. Git/GitHub) are integral to a reproducible workflow.
 ## Agenda
 
 - What's all the excitement about?
-- First contact for students
+- First contact: <https://mdbeckman.github.io/GitHub-Practice-StatChat-SP20/>
 - Basic workflow with RStudio & Git(Hub)
 - Examples: 
-    - Bird Species (Individual Assignment) Link: <TBD>
-    - Popular Names (Group Assignment) Link: <TBD>
-- GitHub Classroom
+    - [Graphical Exploration (Link)](https://classroom.github.com/a/ynGzID_O)
+    - [Popular Names (Link)](https://classroom.github.com/g/1diN8K32)
+- GitHub Classroom [(Site Link;](https://classroom.github.com/) [Instructions Link)](GitHub Classroom.nb.html)
 - Creating Assignments
     - Individual Assignment
     - Group Assignment
-- Assessment
+- Assessment Remarks
 
 
 
 ## Resources
 
 - Beckman, Cetinkaya-Rundel, Horton, Rundel, Sullivan, & Tackett (in review). *Implementing version control with Git as a learning objective in statistics courses*. URL: <https://arxiv.org/abs/2001.01988>
+
 - Bryan, STAT 545 TAs, & Hester (2020). *Happy Git and GitHub for the UseR*. URL: <https://happygitwithr.com/>
+
 - Kaplan & Beckman (2020). *Data Computing (2nd edition)*.  URL: <https://dtkaplan.github.io/DataComputingEbook/>
 
 
