@@ -14,7 +14,7 @@ Version control tools (e.g. Git/GitHub) are integral to a reproducible workflow.
 
 ## Agenda
 
-- What's all the excitement about?
+- [What's all the excitement about?](2020-statchat.html)
 - First contact: <https://mdbeckman.github.io/GitHub-Practice-StatChat-SP20/>
 - Basic workflow with RStudio & Git(Hub)
 - Examples: 
